@@ -1,4 +1,4 @@
-## Oioi, me chamo Giulia Monte Blanco. Bem-vindo(a)! 👋
+## Hi, i am Giulia Monte Blanco. Welcome to my git! 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=gihblanco&show_icons=true&theme=radical)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gihblanco&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
